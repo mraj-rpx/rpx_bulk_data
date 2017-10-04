@@ -1,0 +1,2 @@
+class DocumentLocation < ApplicationRecord
+end
